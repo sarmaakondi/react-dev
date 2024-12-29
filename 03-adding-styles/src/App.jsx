@@ -1,4 +1,4 @@
-import Avatar from "./components/AboutPage";
+import Avatar from "./components/Avatar";
 import "./App.css";
 
 function App() {
