@@ -1,0 +1,11 @@
+#root {
+    min-width: 720px;
+    max-height: fit-content;
+    padding: 2rem;
+    margin: 48px;
+    border-radius: 12px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px,
+        rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+        rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
